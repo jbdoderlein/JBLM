@@ -1,0 +1,1 @@
+netcode-patch -nv 1.5.2 "C:\Users\JBWol\Documents\JBLM\LethalCompanyTemplate\bin\Debug\netstandard2.1\JBLM.dll" "E:\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed"
